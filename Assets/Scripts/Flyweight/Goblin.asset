@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f5336b5ded8f124cbcd07c1c4cdcc68, type: 3}
+  m_Name: Goblin
+  m_EditorClassIdentifier: Assembly-CSharp::AIProperties
+  _team: 1
+  _maxHealth: 150
+  _materials:
+  - {fileID: 2100000, guid: 6cf5c72ccbc98e448b7a2ce27058737b, type: 2}
+  - {fileID: 2100000, guid: 84fd0a959c3b3864e94cfe7a4596bc19, type: 2}
+  - {fileID: 2100000, guid: 165662bf126050940933212b9939d7dc, type: 2}
